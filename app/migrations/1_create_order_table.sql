@@ -1,0 +1,6 @@
+-- orders
+CREATE TABLE donor (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    donor_name VARCHAR(50) DEFAULT NULL,
+    phone VARCHAR(55) DEFAULT NULL
+);
