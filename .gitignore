@@ -1,0 +1,5 @@
+www/vendor
+.idea
+www/app/vars
+www/.php-cs-fixer.cache
+www/app.log
